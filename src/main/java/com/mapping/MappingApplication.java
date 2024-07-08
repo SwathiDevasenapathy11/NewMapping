@@ -1,4 +1,4 @@
-package com.example.mapping;
+package com.mapping;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
